@@ -1,6 +1,6 @@
-# dummyprojectis
+# Flutter UI Layout Screen
 
-A new Flutter project.
+I developed a different types of screen design.
 
 ## Getting Started
 
